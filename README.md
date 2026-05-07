@@ -2,7 +2,7 @@
 
 An API is just a way to ask another system for information using a URL.
 
-Example: https://api.weather.com/location?city=Boston
+Example: https://catfact.ninja/fact
 
 The browser sends a request and the API sends data back.
 
