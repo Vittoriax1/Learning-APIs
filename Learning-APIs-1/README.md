@@ -1,4 +1,4 @@
-# Learning-APIs-1
+# Learning APIs 1
 This repository contains a simple FastAPI application created as part of learning how APIs work. It exposes a single GET endpoint at /hello and demonstrates the basics of building and running an API with Python.
 
 ## Setup
