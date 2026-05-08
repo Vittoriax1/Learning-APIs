@@ -31,6 +31,7 @@ pip install requests
 Open the script and set your target base URL:
 
 base_url = "http://localhost:8000"
+
 Adjust the base_url to that target if it is different than what is coded within the script.
 
 Adjust the wordlist in the script if desired.
@@ -39,8 +40,11 @@ Run the script:
 python3 API_Enum_V1.py
 
 You will see output like:
+
 http://localhost:5000/api -> 200
+
 http://localhost:5000/status -> 404
+
 http://localhost:5000/users -> 403
 
 ## Intended Use
