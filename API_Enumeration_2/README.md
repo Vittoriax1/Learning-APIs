@@ -82,8 +82,11 @@ Never run this tool against systems you do not own or have permission to test.
 
 ## File Structure
 /API_Enum_V2/
-│
-├── API_Enum_V2.py
-├── wordlist.txt
-└── enum_results.txt   (created automatically)
 
+│
+
+├── API_Enum_V2.py
+
+├── wordlist.txt
+
+└── enum_results.txt   (created automatically)
