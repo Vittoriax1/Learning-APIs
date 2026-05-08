@@ -18,12 +18,11 @@ Each line represents one endpoint to test.
 2. Supports nested prefixes
 The script can automatically test patterns like:
 
-/api/x
-/api/v1/x
-/v1/x
-/v2/x
-
-Feel free to add other options as needed.
+- /api/x
+- /api/v1/x
+- /v1/x
+- /v2/x
+- <i>Feel free to add other options as needed.</i>
 
 3. Logs results to a file
 Output is saved to enum_results.txt for later review.
