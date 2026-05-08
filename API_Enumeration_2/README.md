@@ -59,10 +59,10 @@ python3 API_Enum_V2.py
 
 The output shows the test results.
 
-
-(Blank line added above this comment per your request.)
 Example:
+
 http://localhost:5000/api -> 200 | size=93 bytes | type=application/json
+
 http://localhost:5000/users -> 404 | size=12 bytes | type=text/html
 
 
